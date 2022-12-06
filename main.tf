@@ -51,3 +51,4 @@ resource "azurerm_app_service" "rakesh_sample_webapp" {
     "SOME_KEY" = "some-value"
   }
 }
+#thankou
